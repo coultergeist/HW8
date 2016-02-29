@@ -11,5 +11,5 @@ As I wondered which electronic device in my home could make me most vunerable to
 <img src="http://1.bp.blogspot.com/-Pp-ZFcdX9-U/VN2dLc2aIsI/AAAAAAAAh1E/XPvOzRoCSTs/s1600/windows-hacking.jpg" style="width:5px;height:5px;">
 
 Every time I turn my car on, an image pops up on my screen.
-<img src="https://www.google.com/search?q=leaf+carwings+accept+screen&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjKp6XQzpbLAhUFxGMKHXzIDAsQ_AUIBygB&biw=1014&bih=735#imgrc=5S8Hw78NQ_4fHM%3A">
+<img src="http://www.plugincars.com/sites/default/files/carwings-screen-620.jpg">
 By accepting that Nissan takes data from my car, I realize that this could be any data. I already know that Nissan will add a new charging station on my map if I charge in a place they were unaware existed before. However, there is a lot more data than that, that I am sure they are also tracking. They are likely tracking, at the very least could track, where I am driving and when I drive my car. As soon as I hit the "OK" button, they know that I have started driving. So they are able to know when I leave for school, work, etc. 
